@@ -1,3 +1,3 @@
 <container xmlns="urn:oasis:names:tc:opendocument:xmlns:container" version="1.0">
-  <rootfiles><rootfile media-type="application/oebps-package+xml" full-path="content/ieb-physics-skeleton.opf" version="1.0"></rootfile><rootfile media-type="application/oebps-package+xml" full-path="content/book-teste-1523a30f-a04e-428e-aec2-f1bfd309dd4f.opf" version="1.0"></rootfile></rootfiles>
+  <rootfiles><rootfile media-type="application/oebps-package+xml" full-path="content/book-teste-1523a30f-a04e-428e-aec2-f1bfd309dd4f.opf" version="1.0"></rootfile></rootfiles>
 </container>
